@@ -1,5 +1,11 @@
 # @backstage/plugin-catalog-backend
 
+## 0.5.4
+
+### Patch Changes
+
+- ad838c02f: Reduce log noise on locations refresh
+
 ## 0.5.3
 
 ### Patch Changes
